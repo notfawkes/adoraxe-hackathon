@@ -1,6 +1,6 @@
 # SearchIQS Ashford, CT Land Records Scraper
 
-Google Sheet link : https://docs.google.com/spreadsheets/d/1dDvhVBRzjl6iiBfzfkyhCIpPpxPgpbOSLRhxVwcp7Pw
+Google Sheet link : https://docs.google.com/spreadsheets/d/1dDvhVBRzjl6iiBfzfkyhCIpPpxPgpbOSLRhxVwcp7Pw/edit?usp=sharing
 
 A Python HTTP-based web scraper for the Ashford, CT SearchIQS portal:
 **https://www.searchiqs.com/CTASH/**
