@@ -1,0 +1,20 @@
+# Environments & caches
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+
+# Environment variables & secrets
+.env
+.env.local
+credentials/*.json
+token.json
+credentials/token.json
+
+# Local output files (preserve sample_sheet.csv)
+*.csv
+!sample_sheet.csv
+ashford_land_records.csv
